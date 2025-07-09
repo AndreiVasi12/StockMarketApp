@@ -18,5 +18,9 @@ A simple desktop application built with **Python**, **PyQt5**, and **Matplotlib*
 - [Matplotlib](https://matplotlib.org/) – Plotting and visualization
 - [yfinance](https://pypi.org/project/yfinance/) – Real-time stock data fetching
 - [pandas](https://pandas.pydata.org/) – Data manipulation
+  
+## 🔮 In the future
 
----
+- Improve interface
+- Add AI predticion for the market
+
